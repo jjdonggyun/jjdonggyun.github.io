@@ -105,9 +105,9 @@ analytics:
 # Site Author
 author:
   name             : "donggyun"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a full stack developer."
-  location         : "Somewhere"
+  avatar           : "/assets/images/favdg180.png"
+  bio              : "동균이의 블로그입니다."
+  location         : "South Korea"
   email            : "a4942963@naver.com"
   links:
     - label: "Email"
