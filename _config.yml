@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "donggyun"
-  avatar           : # "/assets/images/favdg180.png"
+  avatar           : "/assets/images/dgprofile.jpg"
   bio              : "동균이의 블로그입니다."
   location         : "South Korea"
   email            : "a4942963@naver.com"
