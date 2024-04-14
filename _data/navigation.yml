@@ -8,6 +8,7 @@ main:
 docs:
   -title: "카테고리"
    children:
+    - title: "categoty"
       url: /categories/
 
   # - title: "About"
