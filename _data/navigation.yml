@@ -5,6 +5,11 @@ main:
   - title: "Search"
     url: /search/
 
+docs:
+  -title: "카테고리"
+   children:
+      url: /categories/
+
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
