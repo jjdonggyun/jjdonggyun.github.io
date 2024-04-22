@@ -9,7 +9,7 @@ sidebar:
 
 #### HTTP의 특징과 쿠키, 세션을 사용하는 이유
 
-![img.png]({{site.url}}/images/2024-04-22-cookieandsession/7c76ddb51a5a7348d4b3b21517e3c90853e60d6f.png)
+![img.png](../images/2024-04-22-cookieandsession/7c76ddb51a5a7348d4b3b21517e3c90853e60d6f.png)
 
 HTTP 프로토콜의 특징이자 약점을 보완하기 위해서 쿠키 또는 세션을 사용한다.
 
